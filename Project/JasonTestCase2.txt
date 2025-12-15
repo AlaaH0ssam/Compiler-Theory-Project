@@ -1,0 +1,10 @@
+program m;
+begin
+if a!b then
+while a!b do
+set a =c;
+endwhile
+else
+a=b;
+endif
+end.
